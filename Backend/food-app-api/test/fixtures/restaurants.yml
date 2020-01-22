@@ -2,18 +2,10 @@
 
 one:
   name: MyString
-  price: 1
-  rating: 1
-  categories: MyString
-  long: 9.99
-  lat: 9.99
-  distance: 9.99
+  users: one
+  place_id: MyString
 
 two:
   name: MyString
-  price: 1
-  rating: 1
-  categories: MyString
-  long: 9.99
-  lat: 9.99
-  distance: 9.99
+  users: two
+  place_id: MyString

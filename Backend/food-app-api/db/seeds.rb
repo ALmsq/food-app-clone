@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-deli = Restaurant.create(name: 'deli', price: 1, rating: 3, categories: 'deli')
-alex = User.create(name: 'alex', restaurant: deli, rating: false)
+# deli = Restaurant.create(name: 'deli', price: 1, rating: 3, categories: 'deli')
+# alex = User.create(name: 'alex', restaurant: deli, rating: false)
 
-Order.create(user_id: 1, restaurant_id: 1)
+# Order.create(user_id: 1, restaurant_id: 1)
